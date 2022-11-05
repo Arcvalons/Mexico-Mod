@@ -1,0 +1,21 @@
+﻿l_spanish:
+l_spanish:
+ monarch_selection_decision_iturbide:0 "Restaurar la Casa Imperial de Iturbide"
+ monarch_selection_decision_iturbide_desc:0 "Hemos logrado restaurar el Imperio Mexicano. Quien mejor para liderarlo que el heredero legitimo del primer Emperador?"
+ monarch_selection_decision_iturbide_tooltip:0 "Agustin Jeronimo de Iturbide se convierte en Emperador de los Mexicanos"
+ 
+ monarch_selection_decision_santa_anna:0 "Aclamar a Santa Anna como Emperador"
+ monarch_selection_decision_santa_anna_desc:0 "Hemos logrado restaurar el Imperio Mexicano. Quien mejor para liderarlo que Su Alteza Serenisima, el caudillo Antonio Lopez de Santa Anna?"
+ monarch_selection_decision_santa_anna_tooltip:0 "Antonio Lopez de Santa Anna se convierte en Emperador de los Mexicanos"
+
+ monarch_selection_decision_maximillian:0 "Ofrezer el trono Imperial a un principe europeo"
+ monarch_selection_decision_maximillian_desc:0 "Hemos logrado restaurar el Imperio Mexicano. Quien mejor para liderarlos que el heredero de una casa ancestral, nacido y educado para tal tarea?"
+ monarch_selection_decision_maximillian_tooltip:0 "Maximiliano de Habsburgo se convierte en Emperador de los Mexicanos"
+
+ monarch_selection_decision_bonaparte:0 "Ofrezer el trono Imperial a un Bonaparte"
+ monarch_selection_decision_bonaparte_desc:0 "Hemos logrado restaurar el Imperio Mexicano. Quien mejor para liderarlo que la misma sangre de L'Empereur?"
+ monarch_selection_decision_bonaparte_tooltip:0 "Jose Bonaparte se convierte en Emperador de los Mexicanos"
+
+ 
+
+ 
